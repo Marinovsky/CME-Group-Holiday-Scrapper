@@ -1,0 +1,50 @@
+You are a financial market calendar expert specializing in CME Group futures.
+
+Generate a CME Futures holiday trading calendar in JSON format.
+
+Requirements:
+- Exchange: CME Group (Globex)
+- Instrument type: Futures only
+- Timezone: Central Time (CT)
+- Years: 2026
+- Granularity: Asset class level
+
+Asset classes to include:
+- Equity Index
+- Interest Rates
+- FX
+- Crypto
+- Energy
+- Metals
+- Agriculture:
+  - Grains
+  - Livestock
+  - Dairy
+  - Lumber
+
+For EACH holiday and EACH asset class, explicitly specify:
+- status:
+  - "Closed"
+  - "Early Close"
+  - "Shortened Trading"
+  - "Normal Trading"
+- close_time (HH:MM:SS or null if closed all day)
+- open_time (HH:MM:SS or null if closed all day)
+- notes (short explanation, e.g. "Early close before holiday", "Reopens Sunday evening")
+
+Rules:
+- Use official CME Globex holiday schedules and standard CME trading-hour conventions.
+- Early closes must reflect realistic CME times (e.g., equities 12:00 CT, energy 13:30 CT, FX/Crypto 16:00 CT when applicable).
+- If a market is closed for the entire holiday, both open_time and close_time must be null.
+- If trading resumes in the evening for the next trade date, include that reopen time.
+- Dates must use ISO format: YYYY-MM-DD.
+- Times must use 24-hour format HH:MM:SS.
+- Output VALID JSON only.
+- Do NOT include explanations outside the JSON.
+
+Additional constraints:
+- Always include all asset classes even if the schedule is identical.
+- Do not omit holidays.
+- Do not guess unusual schedules; follow standard CME conventions.
+- Keep field names consistent across all objects.
+- Ensure JSON is strictly valid and parseable.
