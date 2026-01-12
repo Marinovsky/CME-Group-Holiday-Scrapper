@@ -3,67 +3,116 @@ from openai import OpenAI
 
 client = OpenAI()
 
-prompt = f"""
-You are a financial market calendar expert specializing in CME Group futures.
+prompt = """
+You are a web discovery agent.
 
-Generate a CME Futures holiday trading calendar in JSON format.
+TASK:
+Search the official CME Group website for the CME Group Holiday Calendar for the year 2026.
 
-Requirements:
-- Exchange: CME Group (Globex)
-- Instrument type: Futures only
-- Timezone: Central Time (CT)
-- Years: 2026
-- Granularity: Asset class level
+RETURN:
+- A list of official CME Group URLs that contain holiday, early close, or late open information for 2026.
+- If the 2026 calendar is not published, explicitly say: "CME 2026 calendar not yet published".
 
-Asset classes to include:
-- Equity Index
-- Interest Rates
-- FX
-- Crypto
-- Energy
-- Metals
-- Agriculture:
-  - Grains
-  - Livestock
-  - Dairy
-  - Lumber
+FORMAT:
+Return JSON only in the following format:
 
-For EACH holiday and EACH asset class, explicitly specify:
-- status:
-  - "Closed"
-  - "Early Close"
-  - "Shortened Trading"
-  - "Normal Trading"
-- close_time (HH:MM:SS or null if closed all day)
-- open_time (HH:MM:SS or null if closed all day)
-- notes (short explanation, e.g. "Early close before holiday", "Reopens Sunday evening")
+{
+  "published": true | false,
+  "urls": ["https://...", "..."]
+}
 
-Rules:
-- Use official CME Globex holiday schedules and standard CME trading-hour conventions.
-- Early closes must reflect realistic CME times (e.g., equities 12:00 CT, energy 13:30 CT, FX/Crypto 16:00 CT when applicable).
-- If a market is closed for the entire holiday, both open_time and close_time must be null.
-- If trading resumes in the evening for the next trade date, include that reopen time.
-- Dates must use ISO format: YYYY-MM-DD.
-- Times must use 24-hour format HH:MM:SS.
-- Output VALID JSON only.
-- Do NOT include explanations outside the JSON.
-
-Additional constraints:
-- Always include all asset classes even if the schedule is identical.
-- Do not omit holidays.
-- Do not guess unusual schedules; follow standard CME conventions.
-- Keep field names consistent across all objects.
-- Ensure JSON is strictly valid and parseable.
+RULES:
+- Use only CME Group official domains.
+- Do not guess or infer dates.
+- Do not include explanations.
 """
 
-response = client.chat.completions.create(
-    model="gpt-4.1",
-    temperature=0.05,
-    messages=[
-        {"role": "system", "content": "You output strict financial JSON."},
-        {"role": "user", "content": prompt}
-    ]
+history = [
+  {
+    "role": "user",
+    "content": prompt
+  }
+]
+
+response = client.responses.create(
+    model="gpt-5-mini",
+    tools=[{"type": "web_search"}],
+    input=history
 )
 
-result = response.choices[0].message.content
-print(result)
+print(response.output_text)
+print("======================================")
+
+prompt2 = """
+You are a data extraction agent.
+
+TASK:
+Using the official CME Group URLs provided, extract ALL available 2026 information related to:
+- Full holidays
+- Early market closes
+- Late market opens (this is, the market opens again before closed)
+- Bank holidays
+- Asset classes: Grains and Livestock
+
+FORMAT:
+Return JSON only, with this flexible structure:
+
+{
+  "grains": {
+    "earlyCloses": [{"date": "M/D/YYYY", "time": "HH:MM:SS"}],
+    "lateOpens": [{"date": "M/D/YYYY", "time": "HH:MM:SS"}],
+    "holidays": ["M/D/YYYY"],
+  },
+  "...": {}
+}
+
+RULES:
+- Dates must be M/D/YYYY (no leading zeros).
+- Times must be HH:MM:SS (24h).
+- If a value is not available, omit it.
+- Do NOT invent missing data.
+- Return JSON only.
+
+"""
+
+second_response = client.responses.create(
+    model = "gpt-5",
+    previous_response_id=response.id,
+    tools=[{"type": "web_search"}],
+    input = [{"role": "user", "content": prompt2}]
+)
+
+print(second_response.output_text)
+print("==========================================")
+
+prompt3 = """
+You are a data validation agent.
+
+TASK:
+Validate the provided CME Group 2026 JSON file.
+
+CHECKS:
+- All dates are in year 2026
+- No duplicate dates inside the same category
+- No holiday is in early Closes or late Opens
+- JSON is syntactically valid
+
+OUTPUT FORMAT:
+Return JSON only:
+
+{
+  "valid": true | false,
+  "errors": []
+}
+
+"""
+
+third_response = client.responses.create(
+    model = "gpt-5-mini",
+    previous_response_id=second_response.id,
+    tools=[{"type": "web_search"}],
+    input = [{"role": "user", "content": prompt3}]
+)
+
+print(third_response.output_text)
+print("==========================================")
