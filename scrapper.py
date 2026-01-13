@@ -1,118 +1,50 @@
-import json
 from openai import OpenAI
+from pydantic import BaseModel, RootModel
+from typing import Dict, List
 
 client = OpenAI()
 
-prompt = """
-You are a web discovery agent.
+class DateWithTime(BaseModel):
+    date: str
+    hour: str
 
-TASK:
-Search the official CME Group website for the CME Group Holiday Calendar for the year 2026.
+class HolidayCalendarEntry(BaseModel):
+    holidays: List[str]
+    bankHolidays: List[str]
+    earlyCloses: List[DateWithTime]
+    reopens: List[DateWithTime]
 
-RETURN:
-- A list of official CME Group URLs that contain holiday, early close, or late open information for 2026.
-- If the 2026 calendar is not published, explicitly say: "CME 2026 calendar not yet published".
 
-FORMAT:
-Return JSON only in the following format:
-
-{
-  "published": true | false,
-  "urls": ["https://...", "..."]
-}
-
-RULES:
-- Use only CME Group official domains.
-- Do not guess or infer dates.
-- Do not include explanations.
-"""
-
-history = [
-  {
-    "role": "user",
-    "content": prompt
-  }
-]
-
-response = client.responses.create(
-    model="gpt-5-mini",
-    tools=[{"type": "web_search"}],
-    input=history
-)
-
-print(response.output_text)
-print("======================================")
+class HolidayCalendar(BaseModel):
+    grains: HolidayCalendarEntry
 
 prompt2 = """
 You are a data extraction agent.
 
 TASK:
-Using the official CME Group URLs provided, extract ALL available 2026 information related to:
-- Full holidays
+Search the official CME Group website for the CME Group Holiday Calendar for the year 2026 and
+extract ALL available 2026 information related to:
+- Full holidays (this is, the market does not open again before closed on that day)
 - Early market closes
-- Late market opens (this is, the market opens again before closed)
-- Bank holidays
-- Asset classes: Grains and Livestock
-
-FORMAT:
-Return JSON only, with this flexible structure:
-
-{
-  "grains": {
-    "earlyCloses": [{"date": "M/D/YYYY", "time": "HH:MM:SS"}],
-    "lateOpens": [{"date": "M/D/YYYY", "time": "HH:MM:SS"}],
-    "holidays": ["M/D/YYYY"],
-  },
-  "...": {}
-}
+- Reopens (this is, the market opens again before closed on that holiday, usually at night and for next day trading)
+- Bank holidays (this is, market re opens again before closed)
+- Asset classes: Grains
 
 RULES:
+- Use only CME Group official domains.
 - Dates must be M/D/YYYY (no leading zeros).
-- Times must be HH:MM:SS (24h).
+- Times must be HH:MM:SS (24h)
 - If a value is not available, omit it.
 - Do NOT invent missing data.
 - Return JSON only.
-
 """
 
-second_response = client.responses.create(
-    model = "gpt-5",
-    previous_response_id=response.id,
+second_response = client.responses.parse(
+    model = "gpt-5.2",
     tools=[{"type": "web_search"}],
-    input = [{"role": "user", "content": prompt2}]
+    input = [{"role": "user", "content": prompt2}],
+    text_format=HolidayCalendar
 )
 
 print(second_response.output_text)
-print("==========================================")
-
-prompt3 = """
-You are a data validation agent.
-
-TASK:
-Validate the provided CME Group 2026 JSON file.
-
-CHECKS:
-- All dates are in year 2026
-- No duplicate dates inside the same category
-- No holiday is in early Closes or late Opens
-- JSON is syntactically valid
-
-OUTPUT FORMAT:
-Return JSON only:
-
-{
-  "valid": true | false,
-  "errors": []
-}
-
-"""
-
-third_response = client.responses.create(
-    model = "gpt-5-mini",
-    previous_response_id=second_response.id,
-    tools=[{"type": "web_search"}],
-    input = [{"role": "user", "content": prompt3}]
-)
-
-print(third_response.output_text)
 print("==========================================")
