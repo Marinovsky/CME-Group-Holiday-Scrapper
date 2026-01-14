@@ -10,14 +10,12 @@ client = OpenAI()
 
 class DateWithTime(BaseModel):
     date: str = Field(description="Dates must be M/D/YYYY (no leading zeros)")
-    hour: str = Field(description="Times must be HH:MM:SS (24h)")
+    hour: str = Field(description="Times must be HH:MM:SS (24h) in U.S. Central Time")
 
 class HolidayCalendarEntry(BaseModel):
-    holidays: List[str] = Field(description="Full holidays, this is, the market does not open again before closed on that day")
-    bankHolidays: List[str] = Field(description="Bank Holidays, this is, market reopens again before closed on that day")
-    earlyCloses: List[DateWithTime] = Field(description="Early market closes, this is, the market closes before the regular hour")
-    reopens: List[DateWithTime] = Field(description="Reopens, this is, the market opens again before closed on that holiday, usually at night and for next day trading")
-
+    holidays: List[str] = Field(description="Full holidays, this is, the market does not open again before closed on that day, example: 4/3/2026")
+    bankHolidays: List[str] = Field(description="Bank Holidays, this is, market reopens again before closed on that day, example: 1/19/2026")
+    earlyCloses: List[DateWithTime] = Field(description="Early market closes, this is, the market closes before the regular hour, example: 11/27/2026 CME group grains close at 12:05h instead of 16h")
 
 class HolidayCalendar(BaseModel):
     grains: HolidayCalendarEntry = Field(description="CME Group asset class 'Grains'")
@@ -31,8 +29,8 @@ extract ALL available 2026 information related to holiday schedule for CME group
 'Grains'
 
 RULES:
-- It's for QuantConnect LEAN Engine
-- Use only CME Group official domains.
+- No holiday can be a bank holiday
+- A date can be classified as both Bank holiday and late open
 - If a value is not available, omit it.
 - Do NOT invent missing data."""
 
@@ -42,14 +40,14 @@ response = client.responses.parse(
     reasoning = {"effort": "medium"},
     tools=[{"type": "web_search"}],
     input = [{"role": "user", "content": prompt2}],
+    include=["web_search_call.action.sources"],
     text_format=HolidayCalendar
 )
 
 print(response.output_text)
-with open("client_response.json", "w") as f:
-    f.write(str(response.output_text))
 print("==========================================")
 
+"""
 async def create_and_run_agent():  
   agent = Agent(
       name = "Scrappy",
@@ -60,22 +58,22 @@ async def create_and_run_agent():
             WebSearchTool(
                 filters=Filters(
                     allowed_domains=[
-                        "cmegroup.com",
-                        "crosstrade.io"
+                        "cmegroup.com"
                     ],
                 ),
-                search_context_size="medium",
+                search_context_size="low" \
+                "",
             )
         ],
         model_settings=ModelSettings(
-            reasoning=Reasoning(effort="medium"),
+            reasoning=Reasoning(effort="low"),
             response_include=["web_search_call.action.sources"]
         )
   )
 
-  agent_response = await Runner.run(agent, "Extract CME Holiday Calendar for 2026 for the asset class Grains")
+  agent_response = await Runner.run(agent, prompt2)
   print(agent_response.final_output)
   with open("agent_response.json", "w") as f:
     f.write(str(agent_response.final_output))
 
-asyncio.run(create_and_run_agent())
+asyncio.run(create_and_run_agent())"""
