@@ -60,9 +60,10 @@ def transform_holiday_schedule(records, regular_schedule):
     For each date in each class from the provided source, classify the date as holiday, bank holiday,
     early close.
     - If the date is a weekend do not add it to any category.
+    - No date classified as a Holiday can be also a Bank Holiday.
     - Use the regular schedule provided to know if a given date is a late open or early close based on the regular
       open and close time of certain asset.
-    - If a date is classified as a bank holiday add it also in the lateOpens list with its hour
+    - If a date is classified as a bank holiday, it should also be add it as a late open or early close.
     """
     response = client.responses.parse(
         model = "gpt-5.2",
