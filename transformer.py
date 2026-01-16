@@ -10,9 +10,9 @@ class DateWithTime(BaseModel):
 
 class HolidayCalendarEntry(BaseModel):
     holidays: List[str] = Field(description="Full holidays, this is, when the market is CLOSED ALL DAY.")
-    bankHolidays: List[str] = Field(description="Bank Holidays, this is, market reopens again before closed.")
-    earlyCloses: List[DateWithTime] = Field(description="Early market closes, this is, the market does not open at night")
-    lateOpens: List[DateWithTime] = Field(description="Late market opens, this is, the market opens until night")
+    bankHolidays: List[str] = Field(description="Bank Holidays, this is, when the market is not CLOSED ALL DAY.")
+    earlyCloses: List[DateWithTime] = Field(description="Early market closes, this is, the market does not open at night.")
+    lateOpens: List[DateWithTime] = Field(description="Late market opens, this is, the market opens until night.")
 
 class HolidayCalendar(BaseModel):
     interest: HolidayCalendarEntry = Field(description="Asset class 'Interest Rates'")
@@ -29,7 +29,7 @@ class HolidayCalendar(BaseModel):
 def extract_holiday_schedule(path):
     df = pd.read_excel(path, header=None)
 
-    # Row 3 contains the dates
+    # Row 4 contains the dates
     date_row = 4
     dates = df.iloc[date_row, 1:]
 
@@ -49,7 +49,7 @@ def extract_holiday_schedule(path):
             
             records[asset_class_str].append({
                 "date": pd.to_datetime(date).strftime("%m/%d/%Y"),
-                "raw_text": str(cell).strip() if not pd.isna(cell) else "CLOSED ALL DAY"
+                "raw_text": str(cell).strip().replace("PREOPEN", "CLOSED") if not pd.isna(cell) else "CLOSED ALL DAY"
             })
 
     return records
@@ -58,16 +58,16 @@ def transform_holiday_schedule(records, regular_schedule):
     client = OpenAI()
     prompt = """
     For each date in each class from the provided source, classify the date as holiday, bank holiday,
-    early close.
+    early close or late open.
     - If the date is a weekend do not add it to any category.
     - No date classified as a Holiday can be also a Bank Holiday.
     - Use the regular schedule provided to know if a given date is a late open or early close based on the regular
       open and close time of certain asset.
-    - If a date is classified as a bank holiday, it should also be add it as a late open or early close.
+    - If a date is classified as a Bank Holiday, include it in the bank holidays list but also include it either as a late open or early close.
     """
     response = client.responses.parse(
         model = "gpt-5.2",
-        reasoning = {"effort": "medium"},
+        reasoning = {"effort": "high"},
         input = [
             {
                 "role": "developer",

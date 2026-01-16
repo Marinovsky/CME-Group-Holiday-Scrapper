@@ -7,7 +7,7 @@
             },
             {
                 "date": "01/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-02 (PREOPEN) \n17:00 Trade Date: 2026-01-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-02 (CLOSED) \n17:00 Trade Date: 2026-01-02 (OPEN)"
             },
             {
                 "date": "01/02/2026",
@@ -17,39 +17,39 @@
         [
             {
                 "date": "01/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (PREOPEN) \n17:00 Trade Date: 2026-01-20 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n17:00 Trade Date: 2026-01-20 (OPEN)"
             },
             {
                 "date": "01/19/2026",
-                "raw_text": "12:00 Trade Date: 2026-01-20 (PREOPEN) \n17:00 Trade Date: 2026-01-20 (OPEN)"
+                "raw_text": "12:00 Trade Date: 2026-01-20 (CLOSED) \n17:00 Trade Date: 2026-01-20 (OPEN)"
             },
             {
                 "date": "01/20/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (PREOPEN) \n17:00 Trade Date: 2026-01-21 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (CLOSED) \n17:00 Trade Date: 2026-01-21 (OPEN)"
             }
         ],
         [
             {
                 "date": "02/15/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (PREOPEN) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
             },
             {
                 "date": "02/16/2026",
-                "raw_text": "12:00 Trade Date: 2026-02-17 (PREOPEN) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+                "raw_text": "12:00 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
             },
             {
                 "date": "02/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (PREOPEN) \n17:00 Trade Date: 2026-02-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (CLOSED) \n17:00 Trade Date: 2026-02-18 (OPEN)"
             }
         ],
         [
             {
                 "date": "04/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (PREOPEN) \n17:00 Trade Date: 2026-04-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (CLOSED) \n17:00 Trade Date: 2026-04-02 (OPEN)"
             },
             {
                 "date": "04/02/2026",
-                "raw_text": "16:00 Trade Date: 2026-04-02 (CLOSED) \n16:45 Trade Date: 2026-04-03 (PREOPEN) \n17:00 Trade Date: 2026-04-03 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-04-02 (CLOSED) \n16:45 Trade Date: 2026-04-03 (CLOSED) \n17:00 Trade Date: 2026-04-03 (OPEN)"
             },
             {
                 "date": "04/03/2026",
@@ -59,25 +59,25 @@
         [
             {
                 "date": "05/24/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (PREOPEN) \n17:00 Trade Date: 2026-05-26 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n17:00 Trade Date: 2026-05-26 (OPEN)"
             },
             {
                 "date": "05/25/2026",
-                "raw_text": "12:00 Trade Date: 2026-05-26 (PREOPEN) \n17:00 Trade Date: 2026-05-26 (OPEN)"
+                "raw_text": "12:00 Trade Date: 2026-05-26 (CLOSED) \n17:00 Trade Date: 2026-05-26 (OPEN)"
             },
             {
                 "date": "05/26/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (PREOPEN) \n17:00 Trade Date: 2026-05-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (CLOSED) \n17:00 Trade Date: 2026-05-27 (OPEN)"
             }
         ],
         [
             {
                 "date": "06/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (PREOPEN) \n17:00 Trade Date: 2026-06-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (CLOSED) \n17:00 Trade Date: 2026-06-18 (OPEN)"
             },
             {
                 "date": "06/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-18 (CLOSED) \n16:45 Trade Date: 2026-06-22 (PREOPEN) \n17:00 Trade Date: 2026-06-22 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-18 (CLOSED) \n16:45 Trade Date: 2026-06-22 (CLOSED) \n17:00 Trade Date: 2026-06-22 (OPEN)"
             },
             {
                 "date": "06/19/2026",
@@ -87,7 +87,7 @@
         [
             {
                 "date": "07/02/2026",
-                "raw_text": "16:00 Trade Date: 2026-07-02 (CLOSED) \n16:45 Trade Date: 2026-07-06 (PREOPEN) \n17:00 Trade Date: 2026-07-06 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-07-02 (CLOSED) \n16:45 Trade Date: 2026-07-06 (CLOSED) \n17:00 Trade Date: 2026-07-06 (OPEN)"
             },
             {
                 "date": "07/03/2026",
@@ -101,25 +101,25 @@
         [
             {
                 "date": "09/06/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (PREOPEN) \n17:00 Trade Date: 2026-09-08 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n17:00 Trade Date: 2026-09-08 (OPEN)"
             },
             {
                 "date": "09/07/2026",
-                "raw_text": "12:00 Trade Date: 2026-09-08 (PREOPEN) \n17:00 Trade Date: 2026-09-08 (OPEN)"
+                "raw_text": "12:00 Trade Date: 2026-09-08 (CLOSED) \n17:00 Trade Date: 2026-09-08 (OPEN)"
             },
             {
                 "date": "09/08/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (PREOPEN) \n17:00 Trade Date: 2026-09-09 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (CLOSED) \n17:00 Trade Date: 2026-09-09 (OPEN)"
             }
         ],
         [
             {
                 "date": "11/25/2026",
-                "raw_text": "16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (PREOPEN) \n17:00 Trade Date: 2026-11-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (CLOSED) \n17:00 Trade Date: 2026-11-27 (OPEN)"
             },
             {
                 "date": "11/26/2026",
-                "raw_text": "12:00 Trade Date: 2026-11-27 (PREOPEN) \n17:00 Trade Date: 2026-11-27 (OPEN)"
+                "raw_text": "12:00 Trade Date: 2026-11-27 (CLOSED) \n17:00 Trade Date: 2026-11-27 (OPEN)"
             },
             {
                 "date": "11/27/2026",
@@ -129,7 +129,7 @@
         [
             {
                 "date": "12/23/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (PREOPEN) \n17:00 Trade Date: 2026-12-24 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (CLOSED) \n17:00 Trade Date: 2026-12-24 (OPEN)"
             },
             {
                 "date": "12/24/2026",
@@ -143,7 +143,7 @@
         [
             {
                 "date": "12/30/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (PREOPEN) \n17:00 Trade Date: 2026-12-31 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (CLOSED) \n17:00 Trade Date: 2026-12-31 (OPEN)"
             },
             {
                 "date": "12/31/2026",
@@ -163,7 +163,7 @@
             },
             {
                 "date": "01/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-02 (PREOPEN) \n17:00 Trade Date: 2026-01-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-02 (CLOSED) \n17:00 Trade Date: 2026-01-02 (OPEN)"
             },
             {
                 "date": "01/02/2026",
@@ -173,39 +173,39 @@
         [
             {
                 "date": "01/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (PREOPEN) \n17:00 Trade Date: 2026-01-20 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n17:00 Trade Date: 2026-01-20 (OPEN)"
             },
             {
                 "date": "01/19/2026",
-                "raw_text": "12:00 Trade Date: 2026-01-20 (PREOPEN) \n17:00 Trade Date: 2026-01-20 (OPEN)"
+                "raw_text": "12:00 Trade Date: 2026-01-20 (CLOSED) \n17:00 Trade Date: 2026-01-20 (OPEN)"
             },
             {
                 "date": "01/20/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (PREOPEN) \n17:00 Trade Date: 2026-01-21 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (CLOSED) \n17:00 Trade Date: 2026-01-21 (OPEN)"
             }
         ],
         [
             {
                 "date": "02/15/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (PREOPEN) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
             },
             {
                 "date": "02/16/2026",
-                "raw_text": "12:00 Trade Date: 2026-02-17 (PREOPEN) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+                "raw_text": "12:00 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
             },
             {
                 "date": "02/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (PREOPEN) \n17:00 Trade Date: 2026-02-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (CLOSED) \n17:00 Trade Date: 2026-02-18 (OPEN)"
             }
         ],
         [
             {
                 "date": "04/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (PREOPEN) \n17:00 Trade Date: 2026-04-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (CLOSED) \n17:00 Trade Date: 2026-04-02 (OPEN)"
             },
             {
                 "date": "04/02/2026",
-                "raw_text": "16:00 Trade Date: 2026-04-02 (CLOSED) \n16:45 Trade Date: 2026-04-03 (PREOPEN) \n17:00 Trade Date: 2026-04-03 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-04-02 (CLOSED) \n16:45 Trade Date: 2026-04-03 (CLOSED) \n17:00 Trade Date: 2026-04-03 (OPEN)"
             },
             {
                 "date": "04/03/2026",
@@ -215,25 +215,25 @@
         [
             {
                 "date": "05/24/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (PREOPEN) \n17:00 Trade Date: 2026-05-26 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n17:00 Trade Date: 2026-05-26 (OPEN)"
             },
             {
                 "date": "05/25/2026",
-                "raw_text": "12:00 Trade Date: 2026-05-26 (PREOPEN) \n17:00 Trade Date: 2026-05-26 (OPEN)"
+                "raw_text": "12:00 Trade Date: 2026-05-26 (CLOSED) \n17:00 Trade Date: 2026-05-26 (OPEN)"
             },
             {
                 "date": "05/26/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (PREOPEN) \n17:00 Trade Date: 2026-05-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (CLOSED) \n17:00 Trade Date: 2026-05-27 (OPEN)"
             }
         ],
         [
             {
                 "date": "06/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (PREOPEN) \n17:00 Trade Date: 2026-06-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (CLOSED) \n17:00 Trade Date: 2026-06-18 (OPEN)"
             },
             {
                 "date": "06/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-18 (CLOSED) \n16:45 Trade Date: 2026-06-22 (PREOPEN) \n17:00 Trade Date: 2026-06-22 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-18 (CLOSED) \n16:45 Trade Date: 2026-06-22 (CLOSED) \n17:00 Trade Date: 2026-06-22 (OPEN)"
             },
             {
                 "date": "06/19/2026",
@@ -243,7 +243,7 @@
         [
             {
                 "date": "07/02/2026",
-                "raw_text": "16:00 Trade Date: 2026-07-02 (CLOSED) \n16:45 Trade Date: 2026-07-06 (PREOPEN) \n17:00 Trade Date: 2026-07-06 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-07-02 (CLOSED) \n16:45 Trade Date: 2026-07-06 (CLOSED) \n17:00 Trade Date: 2026-07-06 (OPEN)"
             },
             {
                 "date": "07/03/2026",
@@ -257,25 +257,25 @@
         [
             {
                 "date": "09/06/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (PREOPEN) \n17:00 Trade Date: 2026-09-08 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n17:00 Trade Date: 2026-09-08 (OPEN)"
             },
             {
                 "date": "09/07/2026",
-                "raw_text": "12:00 Trade Date: 2026-09-08 (PREOPEN) \n17:00 Trade Date: 2026-09-08 (OPEN)"
+                "raw_text": "12:00 Trade Date: 2026-09-08 (CLOSED) \n17:00 Trade Date: 2026-09-08 (OPEN)"
             },
             {
                 "date": "09/08/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (PREOPEN) \n17:00 Trade Date: 2026-09-09 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (CLOSED) \n17:00 Trade Date: 2026-09-09 (OPEN)"
             }
         ],
         [
             {
                 "date": "11/25/2026",
-                "raw_text": "16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (PREOPEN) \n17:00 Trade Date: 2026-11-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (CLOSED) \n17:00 Trade Date: 2026-11-27 (OPEN)"
             },
             {
                 "date": "11/26/2026",
-                "raw_text": "12:00 Trade Date: 2026-11-27 (PREOPEN) \n17:00 Trade Date: 2026-11-27 (OPEN)"
+                "raw_text": "12:00 Trade Date: 2026-11-27 (CLOSED) \n17:00 Trade Date: 2026-11-27 (OPEN)"
             },
             {
                 "date": "11/27/2026",
@@ -285,7 +285,7 @@
         [
             {
                 "date": "12/23/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (PREOPEN) \n17:00 Trade Date: 2026-12-24 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (CLOSED) \n17:00 Trade Date: 2026-12-24 (OPEN)"
             },
             {
                 "date": "12/24/2026",
@@ -299,7 +299,7 @@
         [
             {
                 "date": "12/30/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (PREOPEN) \n17:00 Trade Date: 2026-12-31 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (CLOSED) \n17:00 Trade Date: 2026-12-31 (OPEN)"
             },
             {
                 "date": "12/31/2026",
@@ -319,7 +319,7 @@
             },
             {
                 "date": "01/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-02 (PREOPEN) \n17:00 Trade Date: 2026-01-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-02 (CLOSED) \n17:00 Trade Date: 2026-01-02 (OPEN)"
             },
             {
                 "date": "01/02/2026",
@@ -329,35 +329,35 @@
         [
             {
                 "date": "01/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (PREOPEN) \n17:00 Trade Date: 2026-01-20 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n17:00 Trade Date: 2026-01-20 (OPEN)"
             },
             {
                 "date": "01/19/2026",
-                "raw_text": "13:30 Trade Date: 2026-01-20 (PREOPEN) \n17:00 Trade Date: 2026-01-20 (OPEN)"
+                "raw_text": "13:30 Trade Date: 2026-01-20 (CLOSED) \n17:00 Trade Date: 2026-01-20 (OPEN)"
             },
             {
                 "date": "01/20/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (PREOPEN) \n17:00 Trade Date: 2026-01-21 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (CLOSED) \n17:00 Trade Date: 2026-01-21 (OPEN)"
             }
         ],
         [
             {
                 "date": "02/15/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (PREOPEN) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
             },
             {
                 "date": "02/16/2026",
-                "raw_text": "13:30 Trade Date: 2026-02-17 (PREOPEN) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+                "raw_text": "13:30 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
             },
             {
                 "date": "02/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (PREOPEN) \n17:00 Trade Date: 2026-02-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (CLOSED) \n17:00 Trade Date: 2026-02-18 (OPEN)"
             }
         ],
         [
             {
                 "date": "04/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (PREOPEN) \n17:00 Trade Date: 2026-04-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (CLOSED) \n17:00 Trade Date: 2026-04-02 (OPEN)"
             },
             {
                 "date": "04/02/2026",
@@ -371,25 +371,25 @@
         [
             {
                 "date": "05/24/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (PREOPEN) \n17:00 Trade Date: 2026-05-26 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n17:00 Trade Date: 2026-05-26 (OPEN)"
             },
             {
                 "date": "05/25/2026",
-                "raw_text": "13:30 Trade Date: 2026-05-26 (PREOPEN) \n17:00 Trade Date: 2026-05-26 (OPEN)"
+                "raw_text": "13:30 Trade Date: 2026-05-26 (CLOSED) \n17:00 Trade Date: 2026-05-26 (OPEN)"
             },
             {
                 "date": "05/26/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (PREOPEN) \n17:00 Trade Date: 2026-05-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (CLOSED) \n17:00 Trade Date: 2026-05-27 (OPEN)"
             }
         ],
         [
             {
                 "date": "06/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (PREOPEN) \n17:00 Trade Date: 2026-06-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (CLOSED) \n17:00 Trade Date: 2026-06-18 (OPEN)"
             },
             {
                 "date": "06/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-18 (CLOSED) \n16:45 Trade Date: 2026-06-22 (PREOPEN) \n17:00 Trade Date: 2026-06-22 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-18 (CLOSED) \n16:45 Trade Date: 2026-06-22 (CLOSED) \n17:00 Trade Date: 2026-06-22 (OPEN)"
             },
             {
                 "date": "06/19/2026",
@@ -399,7 +399,7 @@
         [
             {
                 "date": "07/02/2026",
-                "raw_text": "16:00 Trade Date: 2026-07-02 (CLOSED) \n16:45 Trade Date: 2026-07-06 (PREOPEN) \n17:00 Trade Date: 2026-07-06 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-07-02 (CLOSED) \n16:45 Trade Date: 2026-07-06 (CLOSED) \n17:00 Trade Date: 2026-07-06 (OPEN)"
             },
             {
                 "date": "07/03/2026",
@@ -413,25 +413,25 @@
         [
             {
                 "date": "09/06/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (PREOPEN) \n17:00 Trade Date: 2026-09-08 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n17:00 Trade Date: 2026-09-08 (OPEN)"
             },
             {
                 "date": "09/07/2026",
-                "raw_text": "13:30 Trade Date: 2026-09-08 (PREOPEN) \n17:00 Trade Date: 2026-09-08 (OPEN)"
+                "raw_text": "13:30 Trade Date: 2026-09-08 (CLOSED) \n17:00 Trade Date: 2026-09-08 (OPEN)"
             },
             {
                 "date": "09/08/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (PREOPEN) \n17:00 Trade Date: 2026-09-09 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (CLOSED) \n17:00 Trade Date: 2026-09-09 (OPEN)"
             }
         ],
         [
             {
                 "date": "11/25/2026",
-                "raw_text": "16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (PREOPEN) \n17:00 Trade Date: 2026-11-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (CLOSED) \n17:00 Trade Date: 2026-11-27 (OPEN)"
             },
             {
                 "date": "11/26/2026",
-                "raw_text": "13:30 Trade Date: 2026-11-27 (PREOPEN) \n17:00 Trade Date: 2026-11-27 (OPEN)"
+                "raw_text": "13:30 Trade Date: 2026-11-27 (CLOSED) \n17:00 Trade Date: 2026-11-27 (OPEN)"
             },
             {
                 "date": "11/27/2026",
@@ -441,7 +441,7 @@
         [
             {
                 "date": "12/23/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (PREOPEN) \n17:00 Trade Date: 2026-12-24 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (CLOSED) \n17:00 Trade Date: 2026-12-24 (OPEN)"
             },
             {
                 "date": "12/24/2026",
@@ -455,7 +455,7 @@
         [
             {
                 "date": "12/30/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (PREOPEN) \n17:00 Trade Date: 2026-12-31 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (CLOSED) \n17:00 Trade Date: 2026-12-31 (OPEN)"
             },
             {
                 "date": "12/31/2026",
@@ -471,7 +471,7 @@
         [
             {
                 "date": "12/31/2025",
-                "raw_text": "07:45 Trade Date: 2025-12-31 (PAUSED) \n08:00 Trade Date: 2025-12-31 (PREOPEN) \n08:30 Trade Date: 2025-12-31 (OPEN) \n13:20 Trade Date: 2025-12-31 (PAUSED) \n13:30 Trade Date: 2025-12-31 (CLOSED) \n14:30 Trade Date: 2025-12-31 (PCP) \n16:00 Trade Date: 2025-12-31 (CLOSED)"
+                "raw_text": "07:45 Trade Date: 2025-12-31 (PAUSED) \n08:00 Trade Date: 2025-12-31 (CLOSED) \n08:30 Trade Date: 2025-12-31 (OPEN) \n13:20 Trade Date: 2025-12-31 (PAUSED) \n13:30 Trade Date: 2025-12-31 (CLOSED) \n14:30 Trade Date: 2025-12-31 (PCP) \n16:00 Trade Date: 2025-12-31 (CLOSED)"
             },
             {
                 "date": "01/01/2026",
@@ -479,13 +479,13 @@
             },
             {
                 "date": "01/02/2026",
-                "raw_text": "06:00 Trade Date: 2026-01-02 (PREOPEN) \n08:30 Trade Date: 2026-01-02 (OPEN) \n13:20 Trade Date: 2026-01-02 (PAUSED) \n13:30 Trade Date: 2026-01-02 (CLOSED) \n14:30 Trade Date: 2026-01-02 (PCP) \n16:00 Trade Date: 2026-01-02 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-01-02 (CLOSED) \n08:30 Trade Date: 2026-01-02 (OPEN) \n13:20 Trade Date: 2026-01-02 (PAUSED) \n13:30 Trade Date: 2026-01-02 (CLOSED) \n14:30 Trade Date: 2026-01-02 (PCP) \n16:00 Trade Date: 2026-01-02 (CLOSED)"
             }
         ],
         [
             {
                 "date": "01/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (PREOPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED)"
             },
             {
                 "date": "01/19/2026",
@@ -493,13 +493,13 @@
             },
             {
                 "date": "01/20/2026",
-                "raw_text": "07:45 Trade Date: 2026-01-20 (PAUSED) \n08:00 Trade Date: 2026-01-20 (PREOPEN) \n08:30 Trade Date: 2026-01-20 (OPEN) \n13:20 Trade Date: 2026-01-20 (PAUSED) \n13:30 Trade Date: 2026-01-20 (CLOSED) \n14:30 Trade Date: 2026-01-20 (PCP) \n16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (PREOPEN) \n19:00 Trade Date: 2026-01-21 (OPEN)"
+                "raw_text": "07:45 Trade Date: 2026-01-20 (PAUSED) \n08:00 Trade Date: 2026-01-20 (CLOSED) \n08:30 Trade Date: 2026-01-20 (OPEN) \n13:20 Trade Date: 2026-01-20 (PAUSED) \n13:30 Trade Date: 2026-01-20 (CLOSED) \n14:30 Trade Date: 2026-01-20 (PCP) \n16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (CLOSED) \n19:00 Trade Date: 2026-01-21 (OPEN)"
             }
         ],
         [
             {
                 "date": "02/15/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (PREOPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED)"
             },
             {
                 "date": "02/16/2026",
@@ -507,17 +507,17 @@
             },
             {
                 "date": "02/17/2026",
-                "raw_text": "07:45 Trade Date: 2026-02-17 (PAUSED) \n08:00 Trade Date: 2026-02-17 (PREOPEN) \n08:30 Trade Date: 2026-02-17 (OPEN) \n13:20 Trade Date: 2026-02-17 (PAUSED) \n13:30 Trade Date: 2026-02-17 (CLOSED) \n14:30 Trade Date: 2026-02-17 (PCP) \n16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (PREOPEN) \n19:00 Trade Date: 2026-02-18 (OPEN)"
+                "raw_text": "07:45 Trade Date: 2026-02-17 (PAUSED) \n08:00 Trade Date: 2026-02-17 (CLOSED) \n08:30 Trade Date: 2026-02-17 (OPEN) \n13:20 Trade Date: 2026-02-17 (PAUSED) \n13:30 Trade Date: 2026-02-17 (CLOSED) \n14:30 Trade Date: 2026-02-17 (PCP) \n16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (CLOSED) \n19:00 Trade Date: 2026-02-18 (OPEN)"
             }
         ],
         [
             {
                 "date": "04/01/2026",
-                "raw_text": "07:45 Trade Date: 2026-04-01 (PAUSED) \n08:00 Trade Date: 2026-04-01 (PREOPEN) \n08:30 Trade Date: 2026-04-01 (OPEN) \n13:20 Trade Date: 2026-04-01 (PAUSED) \n13:30 Trade Date: 2026-04-01 (CLOSED) \n14:30 Trade Date: 2026-04-01 (PCP) \n16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (PREOPEN) \n19:00 Trade Date: 2026-04-02 (OPEN)"
+                "raw_text": "07:45 Trade Date: 2026-04-01 (PAUSED) \n08:00 Trade Date: 2026-04-01 (CLOSED) \n08:30 Trade Date: 2026-04-01 (OPEN) \n13:20 Trade Date: 2026-04-01 (PAUSED) \n13:30 Trade Date: 2026-04-01 (CLOSED) \n14:30 Trade Date: 2026-04-01 (PCP) \n16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (CLOSED) \n19:00 Trade Date: 2026-04-02 (OPEN)"
             },
             {
                 "date": "04/02/2026",
-                "raw_text": "07:45 Trade Date: 2026-04-02 (PAUSED) \n08:00 Trade Date: 2026-04-02 (PREOPEN) \n08:30 Trade Date: 2026-04-02 (OPEN) \n13:20 Trade Date: 2026-04-02 (PAUSED) \n13:30 Trade Date: 2026-04-02 (CLOSED) \n14:30 Trade Date: 2026-04-02 (PCP) \n16:00 Trade Date: 2026-04-02 (CLOSED)"
+                "raw_text": "07:45 Trade Date: 2026-04-02 (PAUSED) \n08:00 Trade Date: 2026-04-02 (CLOSED) \n08:30 Trade Date: 2026-04-02 (OPEN) \n13:20 Trade Date: 2026-04-02 (PAUSED) \n13:30 Trade Date: 2026-04-02 (CLOSED) \n14:30 Trade Date: 2026-04-02 (PCP) \n16:00 Trade Date: 2026-04-02 (CLOSED)"
             },
             {
                 "date": "04/03/2026",
@@ -527,7 +527,7 @@
         [
             {
                 "date": "05/24/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (PREOPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED)"
             },
             {
                 "date": "05/25/2026",
@@ -535,17 +535,17 @@
             },
             {
                 "date": "05/26/2026",
-                "raw_text": "07:45 Trade Date: 2026-05-26 (PAUSED) \n08:00 Trade Date: 2026-05-26 (PREOPEN) \n08:30 Trade Date: 2026-05-26 (OPEN) \n13:20 Trade Date: 2026-05-26 (PAUSED) \n13:30 Trade Date: 2026-05-26 (CLOSED) \n14:30 Trade Date: 2026-05-26 (PCP) \n16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (PREOPEN) \n19:00 Trade Date: 2026-05-27 (OPEN)"
+                "raw_text": "07:45 Trade Date: 2026-05-26 (PAUSED) \n08:00 Trade Date: 2026-05-26 (CLOSED) \n08:30 Trade Date: 2026-05-26 (OPEN) \n13:20 Trade Date: 2026-05-26 (PAUSED) \n13:30 Trade Date: 2026-05-26 (CLOSED) \n14:30 Trade Date: 2026-05-26 (PCP) \n16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (CLOSED) \n19:00 Trade Date: 2026-05-27 (OPEN)"
             }
         ],
         [
             {
                 "date": "06/17/2026",
-                "raw_text": "07:45 Trade Date: 2026-06-17 (PAUSED) \n08:00 Trade Date: 2026-06-17 (PREOPEN) \n08:30 Trade Date: 2026-06-17 (OPEN) \n13:20 Trade Date: 2026-06-17 (PAUSED) \n13:30 Trade Date: 2026-06-17 (CLOSED) \n14:30 Trade Date: 2026-06-17 (PCP) \n16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (PREOPEN) \n19:00 Trade Date: 2026-06-18 (OPEN)"
+                "raw_text": "07:45 Trade Date: 2026-06-17 (PAUSED) \n08:00 Trade Date: 2026-06-17 (CLOSED) \n08:30 Trade Date: 2026-06-17 (OPEN) \n13:20 Trade Date: 2026-06-17 (PAUSED) \n13:30 Trade Date: 2026-06-17 (CLOSED) \n14:30 Trade Date: 2026-06-17 (PCP) \n16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (CLOSED) \n19:00 Trade Date: 2026-06-18 (OPEN)"
             },
             {
                 "date": "06/18/2026",
-                "raw_text": "07:45 Trade Date: 2026-06-18 (PAUSED) \n08:00 Trade Date: 2026-06-18 (PREOPEN) \n08:30 Trade Date: 2026-06-18 (OPEN) \n13:20 Trade Date: 2026-06-18 (PAUSED) \n13:30 Trade Date: 2026-06-18 (CLOSED) \n14:30 Trade Date: 2026-06-18 (PCP) \n16:00 Trade Date: 2026-06-18 (CLOSED)"
+                "raw_text": "07:45 Trade Date: 2026-06-18 (PAUSED) \n08:00 Trade Date: 2026-06-18 (CLOSED) \n08:30 Trade Date: 2026-06-18 (OPEN) \n13:20 Trade Date: 2026-06-18 (PAUSED) \n13:30 Trade Date: 2026-06-18 (CLOSED) \n14:30 Trade Date: 2026-06-18 (PCP) \n16:00 Trade Date: 2026-06-18 (CLOSED)"
             },
             {
                 "date": "06/19/2026",
@@ -555,7 +555,7 @@
         [
             {
                 "date": "07/02/2026",
-                "raw_text": "07:45 Trade Date: 2026-07-02 (PAUSED) \n08:00 Trade Date: 2026-07-02 (PREOPEN) \n08:30 Trade Date: 2026-07-02 (OPEN) \n13:20 Trade Date: 2026-07-02 (PAUSED) \n13:30 Trade Date: 2026-07-02 (CLOSED) \n14:30 Trade Date: 2026-07-02 (PCP) \n16:00 Trade Date: 2026-07-02 (CLOSED)"
+                "raw_text": "07:45 Trade Date: 2026-07-02 (PAUSED) \n08:00 Trade Date: 2026-07-02 (CLOSED) \n08:30 Trade Date: 2026-07-02 (OPEN) \n13:20 Trade Date: 2026-07-02 (PAUSED) \n13:30 Trade Date: 2026-07-02 (CLOSED) \n14:30 Trade Date: 2026-07-02 (PCP) \n16:00 Trade Date: 2026-07-02 (CLOSED)"
             },
             {
                 "date": "07/03/2026",
@@ -569,7 +569,7 @@
         [
             {
                 "date": "09/06/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (PREOPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED)"
             },
             {
                 "date": "09/07/2026",
@@ -577,13 +577,13 @@
             },
             {
                 "date": "09/08/2026",
-                "raw_text": "07:45 Trade Date: 2026-09-08 (PAUSED) \n08:00 Trade Date: 2026-09-08 (PREOPEN) \n08:30 Trade Date: 2026-09-08 (OPEN) \n13:20 Trade Date: 2026-09-08 (PAUSED) \n13:30 Trade Date: 2026-09-08 (CLOSED) \n14:30 Trade Date: 2026-09-08 (PCP) \n16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (PREOPEN) \n19:00 Trade Date: 2026-09-09 (OPEN)"
+                "raw_text": "07:45 Trade Date: 2026-09-08 (PAUSED) \n08:00 Trade Date: 2026-09-08 (CLOSED) \n08:30 Trade Date: 2026-09-08 (OPEN) \n13:20 Trade Date: 2026-09-08 (PAUSED) \n13:30 Trade Date: 2026-09-08 (CLOSED) \n14:30 Trade Date: 2026-09-08 (PCP) \n16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (CLOSED) \n19:00 Trade Date: 2026-09-09 (OPEN)"
             }
         ],
         [
             {
                 "date": "11/25/2026",
-                "raw_text": "07:45 Trade Date: 2026-11-25 (PAUSED) \n08:00 Trade Date: 2026-11-25 (PREOPEN) \n08:30 Trade Date: 2026-11-25 (OPEN) \n13:20 Trade Date: 2026-11-25 (PAUSED) \n13:30 Trade Date: 2026-11-25 (CLOSED) \n14:30 Trade Date: 2026-11-25 (PCP) \n16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (PREOPEN)"
+                "raw_text": "07:45 Trade Date: 2026-11-25 (PAUSED) \n08:00 Trade Date: 2026-11-25 (CLOSED) \n08:30 Trade Date: 2026-11-25 (OPEN) \n13:20 Trade Date: 2026-11-25 (PAUSED) \n13:30 Trade Date: 2026-11-25 (CLOSED) \n14:30 Trade Date: 2026-11-25 (PCP) \n16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (CLOSED)"
             },
             {
                 "date": "11/26/2026",
@@ -597,11 +597,11 @@
         [
             {
                 "date": "12/23/2026",
-                "raw_text": "07:45 Trade Date: 2026-12-23 (PAUSED) \n08:00 Trade Date: 2026-12-23 (PREOPEN) \n08:30 Trade Date: 2026-12-23 (OPEN) \n13:20 Trade Date: 2026-12-23 (PAUSED) \n13:30 Trade Date: 2026-12-23 (CLOSED) \n14:30 Trade Date: 2026-12-23 (PCP) \n16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (PREOPEN) \n19:00 Trade Date: 2026-12-24 (OPEN)"
+                "raw_text": "07:45 Trade Date: 2026-12-23 (PAUSED) \n08:00 Trade Date: 2026-12-23 (CLOSED) \n08:30 Trade Date: 2026-12-23 (OPEN) \n13:20 Trade Date: 2026-12-23 (PAUSED) \n13:30 Trade Date: 2026-12-23 (CLOSED) \n14:30 Trade Date: 2026-12-23 (PCP) \n16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (CLOSED) \n19:00 Trade Date: 2026-12-24 (OPEN)"
             },
             {
                 "date": "12/24/2026",
-                "raw_text": "07:45 Trade Date: 2026-12-24 (PAUSED) \n08:00 Trade Date: 2026-12-24 (PREOPEN) \n08:30 Trade Date: 2026-12-24 (OPEN) \n12:05 Trade Date: 2026-12-24 (CLOSED)"
+                "raw_text": "07:45 Trade Date: 2026-12-24 (PAUSED) \n08:00 Trade Date: 2026-12-24 (CLOSED) \n08:30 Trade Date: 2026-12-24 (OPEN) \n12:05 Trade Date: 2026-12-24 (CLOSED)"
             },
             {
                 "date": "12/25/2026",
@@ -611,11 +611,11 @@
         [
             {
                 "date": "12/30/2026",
-                "raw_text": "07:45 Trade Date: 2026-12-30 (PAUSED) \n08:00 Trade Date: 2026-12-30 (PREOPEN) \n08:30 Trade Date: 2026-12-30 (OPEN) \n13:20 Trade Date: 2026-12-30 (PAUSED) \n13:30 Trade Date: 2026-12-30 (CLOSED) \n14:30 Trade Date: 2026-12-30 (PCP) \n16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (PREOPEN) \n19:00 Trade Date: 2026-12-31 (OPEN)"
+                "raw_text": "07:45 Trade Date: 2026-12-30 (PAUSED) \n08:00 Trade Date: 2026-12-30 (CLOSED) \n08:30 Trade Date: 2026-12-30 (OPEN) \n13:20 Trade Date: 2026-12-30 (PAUSED) \n13:30 Trade Date: 2026-12-30 (CLOSED) \n14:30 Trade Date: 2026-12-30 (PCP) \n16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (CLOSED) \n19:00 Trade Date: 2026-12-31 (OPEN)"
             },
             {
                 "date": "12/31/2026",
-                "raw_text": "07:45 Trade Date: 2026-12-31 (PAUSED) \n08:00 Trade Date: 2026-12-31 (PREOPEN) \n08:30 Trade Date: 2026-12-31 (OPEN) \n13:20 Trade Date: 2026-12-31 (PAUSED) \n13:30 Trade Date: 2026-12-31 (CLOSED) \n14:30 Trade Date: 2026-12-31 (PCP) \n16:00 Trade Date: 2026-12-31 (CLOSED)"
+                "raw_text": "07:45 Trade Date: 2026-12-31 (PAUSED) \n08:00 Trade Date: 2026-12-31 (CLOSED) \n08:30 Trade Date: 2026-12-31 (OPEN) \n13:20 Trade Date: 2026-12-31 (PAUSED) \n13:30 Trade Date: 2026-12-31 (CLOSED) \n14:30 Trade Date: 2026-12-31 (PCP) \n16:00 Trade Date: 2026-12-31 (CLOSED)"
             },
             {
                 "date": "01/01/2027",
@@ -631,7 +631,7 @@
             },
             {
                 "date": "01/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-02 (PREOPEN) \n17:00 Trade Date: 2026-01-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-02 (CLOSED) \n17:00 Trade Date: 2026-01-02 (OPEN)"
             },
             {
                 "date": "01/02/2026",
@@ -641,39 +641,39 @@
         [
             {
                 "date": "01/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (PREOPEN) \n17:00 Trade Date: 2026-01-20 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n17:00 Trade Date: 2026-01-20 (OPEN)"
             },
             {
                 "date": "01/19/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (PREOPEN) \n17:00 Trade Date: 2026-01-20 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n17:00 Trade Date: 2026-01-20 (OPEN)"
             },
             {
                 "date": "01/20/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (PREOPEN) \n17:00 Trade Date: 2026-01-21 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (CLOSED) \n17:00 Trade Date: 2026-01-21 (OPEN)"
             }
         ],
         [
             {
                 "date": "02/15/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (PREOPEN) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
             },
             {
                 "date": "02/16/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (PREOPEN) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
             },
             {
                 "date": "02/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (PREOPEN) \n17:00 Trade Date: 2026-02-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (CLOSED) \n17:00 Trade Date: 2026-02-18 (OPEN)"
             }
         ],
         [
             {
                 "date": "04/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (PREOPEN) \n17:00 Trade Date: 2026-04-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (CLOSED) \n17:00 Trade Date: 2026-04-02 (OPEN)"
             },
             {
                 "date": "04/02/2026",
-                "raw_text": "16:00 Trade Date: 2026-04-02 (CLOSED) \n16:45 Trade Date: 2026-04-03 (PREOPEN) \n17:00 Trade Date: 2026-04-03 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-04-02 (CLOSED) \n16:45 Trade Date: 2026-04-03 (CLOSED) \n17:00 Trade Date: 2026-04-03 (OPEN)"
             },
             {
                 "date": "04/03/2026",
@@ -683,25 +683,25 @@
         [
             {
                 "date": "05/24/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (PREOPEN) \n17:00 Trade Date: 2026-05-26 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n17:00 Trade Date: 2026-05-26 (OPEN)"
             },
             {
                 "date": "05/25/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (PREOPEN) \n17:00 Trade Date: 2026-05-26 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n17:00 Trade Date: 2026-05-26 (OPEN)"
             },
             {
                 "date": "05/26/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (PREOPEN) \n17:00 Trade Date: 2026-05-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (CLOSED) \n17:00 Trade Date: 2026-05-27 (OPEN)"
             }
         ],
         [
             {
                 "date": "06/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (PREOPEN) \n17:00 Trade Date: 2026-06-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (CLOSED) \n17:00 Trade Date: 2026-06-18 (OPEN)"
             },
             {
                 "date": "06/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-18 (CLOSED) \n16:45 Trade Date: 2026-06-22 (PREOPEN) \n17:00 Trade Date: 2026-06-22 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-18 (CLOSED) \n16:45 Trade Date: 2026-06-22 (CLOSED) \n17:00 Trade Date: 2026-06-22 (OPEN)"
             },
             {
                 "date": "06/19/2026",
@@ -711,7 +711,7 @@
         [
             {
                 "date": "07/02/2026",
-                "raw_text": "16:00 Trade Date: 2026-07-02 (CLOSED) \n16:45 Trade Date: 2026-07-06 (PREOPEN) \n17:00 Trade Date: 2026-07-06 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-07-02 (CLOSED) \n16:45 Trade Date: 2026-07-06 (CLOSED) \n17:00 Trade Date: 2026-07-06 (OPEN)"
             },
             {
                 "date": "07/03/2026",
@@ -725,25 +725,25 @@
         [
             {
                 "date": "09/06/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (PREOPEN) \n17:00 Trade Date: 2026-09-08 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n17:00 Trade Date: 2026-09-08 (OPEN)"
             },
             {
                 "date": "09/07/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (PREOPEN) \n17:00 Trade Date: 2026-09-08 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n17:00 Trade Date: 2026-09-08 (OPEN)"
             },
             {
                 "date": "09/08/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (PREOPEN) \n17:00 Trade Date: 2026-09-09 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (CLOSED) \n17:00 Trade Date: 2026-09-09 (OPEN)"
             }
         ],
         [
             {
                 "date": "11/25/2026",
-                "raw_text": "16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (PREOPEN) \n17:00 Trade Date: 2026-11-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (CLOSED) \n17:00 Trade Date: 2026-11-27 (OPEN)"
             },
             {
                 "date": "11/26/2026",
-                "raw_text": "16:00 Trade Date: 2026-11-27 (PREOPEN) \n17:00 Trade Date: 2026-11-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-11-27 (CLOSED) \n17:00 Trade Date: 2026-11-27 (OPEN)"
             },
             {
                 "date": "11/27/2026",
@@ -753,7 +753,7 @@
         [
             {
                 "date": "12/23/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (PREOPEN) \n17:00 Trade Date: 2026-12-24 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (CLOSED) \n17:00 Trade Date: 2026-12-24 (OPEN)"
             },
             {
                 "date": "12/24/2026",
@@ -767,7 +767,7 @@
         [
             {
                 "date": "12/30/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (PREOPEN) \n17:00 Trade Date: 2026-12-31 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (CLOSED) \n17:00 Trade Date: 2026-12-31 (OPEN)"
             },
             {
                 "date": "12/31/2026",
@@ -787,7 +787,7 @@
             },
             {
                 "date": "01/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-02 (PREOPEN) \n17:00 Trade Date: 2026-01-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-02 (CLOSED) \n17:00 Trade Date: 2026-01-02 (OPEN)"
             },
             {
                 "date": "01/02/2026",
@@ -797,35 +797,35 @@
         [
             {
                 "date": "01/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (PREOPEN) \n17:00 Trade Date: 2026-01-20 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n17:00 Trade Date: 2026-01-20 (OPEN)"
             },
             {
                 "date": "01/19/2026",
-                "raw_text": "13:30 Trade Date: 2026-01-20 (PREOPEN) \n17:00 Trade Date: 2026-01-20 (OPEN)"
+                "raw_text": "13:30 Trade Date: 2026-01-20 (CLOSED) \n17:00 Trade Date: 2026-01-20 (OPEN)"
             },
             {
                 "date": "01/20/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (PREOPEN) \n17:00 Trade Date: 2026-01-21 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (CLOSED) \n17:00 Trade Date: 2026-01-21 (OPEN)"
             }
         ],
         [
             {
                 "date": "02/15/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (PREOPEN) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
             },
             {
                 "date": "02/16/2026",
-                "raw_text": "13:30 Trade Date: 2026-02-17 (PREOPEN) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+                "raw_text": "13:30 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
             },
             {
                 "date": "02/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (PREOPEN) \n17:00 Trade Date: 2026-02-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (CLOSED) \n17:00 Trade Date: 2026-02-18 (OPEN)"
             }
         ],
         [
             {
                 "date": "04/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (PREOPEN) \n17:00 Trade Date: 2026-04-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (CLOSED) \n17:00 Trade Date: 2026-04-02 (OPEN)"
             },
             {
                 "date": "04/02/2026",
@@ -839,25 +839,25 @@
         [
             {
                 "date": "05/24/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (PREOPEN) \n17:00 Trade Date: 2026-05-26 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n17:00 Trade Date: 2026-05-26 (OPEN)"
             },
             {
                 "date": "05/25/2026",
-                "raw_text": "13:30 Trade Date: 2026-05-26 (PREOPEN) \n17:00 Trade Date: 2026-05-26 (OPEN)"
+                "raw_text": "13:30 Trade Date: 2026-05-26 (CLOSED) \n17:00 Trade Date: 2026-05-26 (OPEN)"
             },
             {
                 "date": "05/26/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (PREOPEN) \n17:00 Trade Date: 2026-05-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (CLOSED) \n17:00 Trade Date: 2026-05-27 (OPEN)"
             }
         ],
         [
             {
                 "date": "06/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (PREOPEN) \n17:00 Trade Date: 2026-06-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (CLOSED) \n17:00 Trade Date: 2026-06-18 (OPEN)"
             },
             {
                 "date": "06/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-18 (CLOSED) \n16:45 Trade Date: 2026-06-22 (PREOPEN) \n17:00 Trade Date: 2026-06-22 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-18 (CLOSED) \n16:45 Trade Date: 2026-06-22 (CLOSED) \n17:00 Trade Date: 2026-06-22 (OPEN)"
             },
             {
                 "date": "06/19/2026",
@@ -867,7 +867,7 @@
         [
             {
                 "date": "07/02/2026",
-                "raw_text": "16:00 Trade Date: 2026-07-02 (CLOSED) \n16:45 Trade Date: 2026-07-06 (PREOPEN) \n17:00 Trade Date: 2026-07-06 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-07-02 (CLOSED) \n16:45 Trade Date: 2026-07-06 (CLOSED) \n17:00 Trade Date: 2026-07-06 (OPEN)"
             },
             {
                 "date": "07/03/2026",
@@ -881,25 +881,25 @@
         [
             {
                 "date": "09/06/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (PREOPEN) \n17:00 Trade Date: 2026-09-08 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n17:00 Trade Date: 2026-09-08 (OPEN)"
             },
             {
                 "date": "09/07/2026",
-                "raw_text": "13:30 Trade Date: 2026-09-08 (PREOPEN) \n17:00 Trade Date: 2026-09-08 (OPEN)"
+                "raw_text": "13:30 Trade Date: 2026-09-08 (CLOSED) \n17:00 Trade Date: 2026-09-08 (OPEN)"
             },
             {
                 "date": "09/08/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (PREOPEN) \n17:00 Trade Date: 2026-09-09 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (CLOSED) \n17:00 Trade Date: 2026-09-09 (OPEN)"
             }
         ],
         [
             {
                 "date": "11/25/2026",
-                "raw_text": "16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (PREOPEN) \n17:00 Trade Date: 2026-11-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (CLOSED) \n17:00 Trade Date: 2026-11-27 (OPEN)"
             },
             {
                 "date": "11/26/2026",
-                "raw_text": "13:30 Trade Date: 2026-11-27 (PREOPEN) \n17:00 Trade Date: 2026-11-27 (OPEN)"
+                "raw_text": "13:30 Trade Date: 2026-11-27 (CLOSED) \n17:00 Trade Date: 2026-11-27 (OPEN)"
             },
             {
                 "date": "11/27/2026",
@@ -909,7 +909,7 @@
         [
             {
                 "date": "12/23/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (PREOPEN) \n17:00 Trade Date: 2026-12-24 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (CLOSED) \n17:00 Trade Date: 2026-12-24 (OPEN)"
             },
             {
                 "date": "12/24/2026",
@@ -923,7 +923,7 @@
         [
             {
                 "date": "12/30/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (PREOPEN) \n17:00 Trade Date: 2026-12-31 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (CLOSED) \n17:00 Trade Date: 2026-12-31 (OPEN)"
             },
             {
                 "date": "12/31/2026",
@@ -939,7 +939,7 @@
         [
             {
                 "date": "12/31/2025",
-                "raw_text": "08:00 Trade Date: 2025-12-31 (PREOPEN) \n08:30 Trade Date: 2025-12-31 (OPEN) \n13:05 Trade Date: 2025-12-31 (CLOSED) \n14:30 Trade Date: 2025-12-31 (PCP) \n16:00 Trade Date: 2025-12-31 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2025-12-31 (CLOSED) \n08:30 Trade Date: 2025-12-31 (OPEN) \n13:05 Trade Date: 2025-12-31 (CLOSED) \n14:30 Trade Date: 2025-12-31 (PCP) \n16:00 Trade Date: 2025-12-31 (CLOSED)"
             },
             {
                 "date": "01/01/2026",
@@ -947,7 +947,7 @@
             },
             {
                 "date": "01/02/2026",
-                "raw_text": "08:00 Trade Date: 2026-01-02 (PREOPEN) \n08:30 Trade Date: 2026-01-02 (OPEN) \n13:05 Trade Date: 2026-01-02 (CLOSED) \n14:30 Trade Date: 2026-01-02 (PCP) \n16:00 Trade Date: 2026-01-02 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-01-02 (CLOSED) \n08:30 Trade Date: 2026-01-02 (OPEN) \n13:05 Trade Date: 2026-01-02 (CLOSED) \n14:30 Trade Date: 2026-01-02 (PCP) \n16:00 Trade Date: 2026-01-02 (CLOSED)"
             }
         ],
         [
@@ -961,7 +961,7 @@
             },
             {
                 "date": "01/20/2026",
-                "raw_text": "08:00 Trade Date: 2026-01-20 (PREOPEN) \n08:30 Trade Date: 2026-01-20 (OPEN) \n13:05 Trade Date: 2026-01-20 (CLOSED) \n14:30 Trade Date: 2026-01-20 (PCP) \n16:00 Trade Date: 2026-01-20 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-01-20 (CLOSED) \n08:30 Trade Date: 2026-01-20 (OPEN) \n13:05 Trade Date: 2026-01-20 (CLOSED) \n14:30 Trade Date: 2026-01-20 (PCP) \n16:00 Trade Date: 2026-01-20 (CLOSED)"
             }
         ],
         [
@@ -975,17 +975,17 @@
             },
             {
                 "date": "02/17/2026",
-                "raw_text": "08:00 Trade Date: 2026-02-17 (PREOPEN) \n08:30 Trade Date: 2026-02-17 (OPEN) \n13:05 Trade Date: 2026-02-17 (CLOSED) \n14:30 Trade Date: 2026-02-17 (PCP) \n16:00 Trade Date: 2026-02-17 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-02-17 (CLOSED) \n08:30 Trade Date: 2026-02-17 (OPEN) \n13:05 Trade Date: 2026-02-17 (CLOSED) \n14:30 Trade Date: 2026-02-17 (PCP) \n16:00 Trade Date: 2026-02-17 (CLOSED)"
             }
         ],
         [
             {
                 "date": "04/01/2026",
-                "raw_text": "08:00 Trade Date: 2026-04-01 (PREOPEN) \n08:30 Trade Date: 2026-04-01 (OPEN) \n13:05 Trade Date: 2026-04-01 (CLOSED) \n14:30 Trade Date: 2026-04-01 (PCP) \n16:00 Trade Date: 2026-04-01 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-04-01 (CLOSED) \n08:30 Trade Date: 2026-04-01 (OPEN) \n13:05 Trade Date: 2026-04-01 (CLOSED) \n14:30 Trade Date: 2026-04-01 (PCP) \n16:00 Trade Date: 2026-04-01 (CLOSED)"
             },
             {
                 "date": "04/02/2026",
-                "raw_text": "08:00 Trade Date: 2026-04-02 (PREOPEN) \n08:30 Trade Date: 2026-04-02 (OPEN) \n13:05 Trade Date: 2026-04-02 (CLOSED) \n14:30 Trade Date: 2026-04-02 (PCP) \n16:00 Trade Date: 2026-04-02 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-04-02 (CLOSED) \n08:30 Trade Date: 2026-04-02 (OPEN) \n13:05 Trade Date: 2026-04-02 (CLOSED) \n14:30 Trade Date: 2026-04-02 (PCP) \n16:00 Trade Date: 2026-04-02 (CLOSED)"
             },
             {
                 "date": "04/03/2026",
@@ -1003,17 +1003,17 @@
             },
             {
                 "date": "05/26/2026",
-                "raw_text": "08:00 Trade Date: 2026-05-26 (PREOPEN) \n08:30 Trade Date: 2026-05-26 (OPEN) \n13:05 Trade Date: 2026-05-26 (CLOSED) \n14:30 Trade Date: 2026-05-26 (PCP) \n16:00 Trade Date: 2026-05-26 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-05-26 (CLOSED) \n08:30 Trade Date: 2026-05-26 (OPEN) \n13:05 Trade Date: 2026-05-26 (CLOSED) \n14:30 Trade Date: 2026-05-26 (PCP) \n16:00 Trade Date: 2026-05-26 (CLOSED)"
             }
         ],
         [
             {
                 "date": "06/17/2026",
-                "raw_text": "08:00 Trade Date: 2026-06-17 (PREOPEN) \n08:30 Trade Date: 2026-06-17 (OPEN) \n13:05 Trade Date: 2026-06-17 (CLOSED) \n14:30 Trade Date: 2026-06-17 (PCP) \n16:00 Trade Date: 2026-06-17 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-06-17 (CLOSED) \n08:30 Trade Date: 2026-06-17 (OPEN) \n13:05 Trade Date: 2026-06-17 (CLOSED) \n14:30 Trade Date: 2026-06-17 (PCP) \n16:00 Trade Date: 2026-06-17 (CLOSED)"
             },
             {
                 "date": "06/18/2026",
-                "raw_text": "08:00 Trade Date: 2026-06-18 (PREOPEN) \n08:30 Trade Date: 2026-06-18 (OPEN) \n13:05 Trade Date: 2026-06-18 (CLOSED) \n14:30 Trade Date: 2026-06-18 (PCP) \n16:00 Trade Date: 2026-06-18 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-06-18 (CLOSED) \n08:30 Trade Date: 2026-06-18 (OPEN) \n13:05 Trade Date: 2026-06-18 (CLOSED) \n14:30 Trade Date: 2026-06-18 (PCP) \n16:00 Trade Date: 2026-06-18 (CLOSED)"
             },
             {
                 "date": "06/19/2026",
@@ -1023,7 +1023,7 @@
         [
             {
                 "date": "07/02/2026",
-                "raw_text": "08:00 Trade Date: 2026-07-02 (PREOPEN) \n08:30 Trade Date: 2026-07-02 (OPEN) \n13:05 Trade Date: 2026-07-02 (CLOSED) \n14:30 Trade Date: 2026-07-02 (PCP) \n16:00 Trade Date: 2026-07-02 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-07-02 (CLOSED) \n08:30 Trade Date: 2026-07-02 (OPEN) \n13:05 Trade Date: 2026-07-02 (CLOSED) \n14:30 Trade Date: 2026-07-02 (PCP) \n16:00 Trade Date: 2026-07-02 (CLOSED)"
             },
             {
                 "date": "07/03/2026",
@@ -1045,13 +1045,13 @@
             },
             {
                 "date": "09/08/2026",
-                "raw_text": "08:00 Trade Date: 2026-09-08 (PREOPEN) \n08:30 Trade Date: 2026-09-08 (OPEN) \n13:05 Trade Date: 2026-09-08 (CLOSED) \n14:30 Trade Date: 2026-09-08 (PCP) \n16:00 Trade Date: 2026-09-08 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-09-08 (CLOSED) \n08:30 Trade Date: 2026-09-08 (OPEN) \n13:05 Trade Date: 2026-09-08 (CLOSED) \n14:30 Trade Date: 2026-09-08 (PCP) \n16:00 Trade Date: 2026-09-08 (CLOSED)"
             }
         ],
         [
             {
                 "date": "11/25/2026",
-                "raw_text": "08:00 Trade Date: 2026-11-25 (PREOPEN) \n08:30 Trade Date: 2026-11-25 (OPEN) \n13:05 Trade Date: 2026-11-25 (CLOSED) \n14:30 Trade Date: 2026-11-25 (PCP) \n16:00 Trade Date: 2026-11-25 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-11-25 (CLOSED) \n08:30 Trade Date: 2026-11-25 (OPEN) \n13:05 Trade Date: 2026-11-25 (CLOSED) \n14:30 Trade Date: 2026-11-25 (PCP) \n16:00 Trade Date: 2026-11-25 (CLOSED)"
             },
             {
                 "date": "11/26/2026",
@@ -1059,17 +1059,17 @@
             },
             {
                 "date": "11/27/2026",
-                "raw_text": "08:00 Trade Date: 2026-11-27 (PREOPEN) \n08:30 Trade Date: 2026-11-27 (OPEN) \n12:05 Trade Date: 2026-11-27 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-11-27 (CLOSED) \n08:30 Trade Date: 2026-11-27 (OPEN) \n12:05 Trade Date: 2026-11-27 (CLOSED)"
             }
         ],
         [
             {
                 "date": "12/23/2026",
-                "raw_text": "08:00 Trade Date: 2026-12-23 (PREOPEN) \n08:30 Trade Date: 2026-12-23 (OPEN) \n13:05 Trade Date: 2026-12-23 (CLOSED) \n14:30 Trade Date: 2026-12-23 (PCP) \n16:00 Trade Date: 2026-12-23 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-12-23 (CLOSED) \n08:30 Trade Date: 2026-12-23 (OPEN) \n13:05 Trade Date: 2026-12-23 (CLOSED) \n14:30 Trade Date: 2026-12-23 (PCP) \n16:00 Trade Date: 2026-12-23 (CLOSED)"
             },
             {
                 "date": "12/24/2026",
-                "raw_text": "08:00 Trade Date: 2026-12-24 (PREOPEN) \n08:30 Trade Date: 2026-12-24 (OPEN) \n12:15 Trade Date: 2026-12-24 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-12-24 (CLOSED) \n08:30 Trade Date: 2026-12-24 (OPEN) \n12:15 Trade Date: 2026-12-24 (CLOSED)"
             },
             {
                 "date": "12/25/2026",
@@ -1079,11 +1079,11 @@
         [
             {
                 "date": "12/30/2026",
-                "raw_text": "08:00 Trade Date: 2026-12-30 (PREOPEN) \n08:30 Trade Date: 2026-12-30 (OPEN) \n13:05 Trade Date: 2026-12-30 (CLOSED) \n14:30 Trade Date: 2026-12-30 (PCP) \n16:00 Trade Date: 2026-12-30 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-12-30 (CLOSED) \n08:30 Trade Date: 2026-12-30 (OPEN) \n13:05 Trade Date: 2026-12-30 (CLOSED) \n14:30 Trade Date: 2026-12-30 (PCP) \n16:00 Trade Date: 2026-12-30 (CLOSED)"
             },
             {
                 "date": "12/31/2026",
-                "raw_text": "08:00 Trade Date: 2026-12-31 (PREOPEN) \n08:30 Trade Date: 2026-12-31 (OPEN) \n13:05 Trade Date: 2026-12-31 (CLOSED) \n14:30 Trade Date: 2026-12-31 (PCP) \n16:00 Trade Date: 2026-12-31 (CLOSED)"
+                "raw_text": "08:00 Trade Date: 2026-12-31 (CLOSED) \n08:30 Trade Date: 2026-12-31 (OPEN) \n13:05 Trade Date: 2026-12-31 (CLOSED) \n14:30 Trade Date: 2026-12-31 (PCP) \n16:00 Trade Date: 2026-12-31 (CLOSED)"
             },
             {
                 "date": "01/01/2027",
@@ -1099,7 +1099,7 @@
             },
             {
                 "date": "01/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-02 (PREOPEN) \n17:00 Trade Date: 2026-01-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-02 (CLOSED) \n17:00 Trade Date: 2026-01-02 (OPEN)"
             },
             {
                 "date": "01/02/2026",
@@ -1109,7 +1109,7 @@
         [
             {
                 "date": "01/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (PREOPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED)"
             },
             {
                 "date": "01/19/2026",
@@ -1117,13 +1117,13 @@
             },
             {
                 "date": "01/20/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (PREOPEN) \n17:00 Trade Date: 2026-01-21 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (CLOSED) \n17:00 Trade Date: 2026-01-21 (OPEN)"
             }
         ],
         [
             {
                 "date": "02/15/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (PREOPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED)"
             },
             {
                 "date": "02/16/2026",
@@ -1131,13 +1131,13 @@
             },
             {
                 "date": "02/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (PREOPEN) \n17:00 Trade Date: 2026-02-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (CLOSED) \n17:00 Trade Date: 2026-02-18 (OPEN)"
             }
         ],
         [
             {
                 "date": "04/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (PREOPEN) \n17:00 Trade Date: 2026-04-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (CLOSED) \n17:00 Trade Date: 2026-04-02 (OPEN)"
             },
             {
                 "date": "04/02/2026",
@@ -1151,7 +1151,7 @@
         [
             {
                 "date": "05/24/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (PREOPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED)"
             },
             {
                 "date": "05/25/2026",
@@ -1159,13 +1159,13 @@
             },
             {
                 "date": "05/26/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (PREOPEN) \n17:00 Trade Date: 2026-05-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (CLOSED) \n17:00 Trade Date: 2026-05-27 (OPEN)"
             }
         ],
         [
             {
                 "date": "06/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (PREOPEN) \n17:00 Trade Date: 2026-06-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (CLOSED) \n17:00 Trade Date: 2026-06-18 (OPEN)"
             },
             {
                 "date": "06/18/2026",
@@ -1193,7 +1193,7 @@
         [
             {
                 "date": "09/06/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (PREOPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED)"
             },
             {
                 "date": "09/07/2026",
@@ -1201,7 +1201,7 @@
             },
             {
                 "date": "09/08/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (PREOPEN) \n17:00 Trade Date: 2026-09-09 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (CLOSED) \n17:00 Trade Date: 2026-09-09 (OPEN)"
             }
         ],
         [
@@ -1221,7 +1221,7 @@
         [
             {
                 "date": "12/23/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (PREOPEN) \n17:00 Trade Date: 2026-12-24 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (CLOSED) \n17:00 Trade Date: 2026-12-24 (OPEN)"
             },
             {
                 "date": "12/24/2026",
@@ -1235,7 +1235,7 @@
         [
             {
                 "date": "12/30/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (PREOPEN) \n17:00 Trade Date: 2026-12-31 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (CLOSED) \n17:00 Trade Date: 2026-12-31 (OPEN)"
             },
             {
                 "date": "12/31/2026",
@@ -1255,7 +1255,7 @@
             },
             {
                 "date": "01/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-02 (PREOPEN) \n17:00 Trade Date: 2026-01-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-02 (CLOSED) \n17:00 Trade Date: 2026-01-02 (OPEN)"
             },
             {
                 "date": "01/02/2026",
@@ -1265,39 +1265,39 @@
         [
             {
                 "date": "01/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (PREOPEN) \n17:00 Trade Date: 2026-01-20 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n17:00 Trade Date: 2026-01-20 (OPEN)"
             },
             {
                 "date": "01/19/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (PREOPEN) \n17:00 Trade Date: 2026-01-20 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n17:00 Trade Date: 2026-01-20 (OPEN)"
             },
             {
                 "date": "01/20/2026",
-                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (PREOPEN) \n17:00 Trade Date: 2026-01-21 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-01-20 (CLOSED) \n16:45 Trade Date: 2026-01-21 (CLOSED) \n17:00 Trade Date: 2026-01-21 (OPEN)"
             }
         ],
         [
             {
                 "date": "02/15/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (PREOPEN) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
             },
             {
                 "date": "02/16/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (PREOPEN) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
             },
             {
                 "date": "02/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (PREOPEN) \n17:00 Trade Date: 2026-02-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-02-17 (CLOSED) \n16:45 Trade Date: 2026-02-18 (CLOSED) \n17:00 Trade Date: 2026-02-18 (OPEN)"
             }
         ],
         [
             {
                 "date": "04/01/2026",
-                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (PREOPEN) \n17:00 Trade Date: 2026-04-02 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-04-01 (CLOSED) \n16:45 Trade Date: 2026-04-02 (CLOSED) \n17:00 Trade Date: 2026-04-02 (OPEN)"
             },
             {
                 "date": "04/02/2026",
-                "raw_text": "16:00 Trade Date: 2026-04-02 (CLOSED) \n16:45 Trade Date: 2026-04-03 (PREOPEN) \n17:00 Trade Date: 2026-04-03 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-04-02 (CLOSED) \n16:45 Trade Date: 2026-04-03 (CLOSED) \n17:00 Trade Date: 2026-04-03 (OPEN)"
             },
             {
                 "date": "04/03/2026",
@@ -1307,25 +1307,25 @@
         [
             {
                 "date": "05/24/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (PREOPEN) \n17:00 Trade Date: 2026-05-26 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n17:00 Trade Date: 2026-05-26 (OPEN)"
             },
             {
                 "date": "05/25/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (PREOPEN) \n17:00 Trade Date: 2026-05-26 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n17:00 Trade Date: 2026-05-26 (OPEN)"
             },
             {
                 "date": "05/26/2026",
-                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (PREOPEN) \n17:00 Trade Date: 2026-05-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-05-26 (CLOSED) \n16:45 Trade Date: 2026-05-27 (CLOSED) \n17:00 Trade Date: 2026-05-27 (OPEN)"
             }
         ],
         [
             {
                 "date": "06/17/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (PREOPEN) \n17:00 Trade Date: 2026-06-18 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-17 (CLOSED) \n16:45 Trade Date: 2026-06-18 (CLOSED) \n17:00 Trade Date: 2026-06-18 (OPEN)"
             },
             {
                 "date": "06/18/2026",
-                "raw_text": "16:00 Trade Date: 2026-06-18 (CLOSED) \n16:45 Trade Date: 2026-06-22 (PREOPEN) \n17:00 Trade Date: 2026-06-22 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-06-18 (CLOSED) \n16:45 Trade Date: 2026-06-22 (CLOSED) \n17:00 Trade Date: 2026-06-22 (OPEN)"
             },
             {
                 "date": "06/19/2026",
@@ -1335,7 +1335,7 @@
         [
             {
                 "date": "07/02/2026",
-                "raw_text": "16:00 Trade Date: 2026-07-02 (CLOSED) \n16:45 Trade Date: 2026-07-06 (PREOPEN) \n17:00 Trade Date: 2026-07-06 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-07-02 (CLOSED) \n16:45 Trade Date: 2026-07-06 (CLOSED) \n17:00 Trade Date: 2026-07-06 (OPEN)"
             },
             {
                 "date": "07/03/2026",
@@ -1349,25 +1349,25 @@
         [
             {
                 "date": "09/06/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (PREOPEN) \n17:00 Trade Date: 2026-09-08 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n17:00 Trade Date: 2026-09-08 (OPEN)"
             },
             {
                 "date": "09/07/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (PREOPEN) \n17:00 Trade Date: 2026-09-08 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n17:00 Trade Date: 2026-09-08 (OPEN)"
             },
             {
                 "date": "09/08/2026",
-                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (PREOPEN) \n17:00 Trade Date: 2026-09-09 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-09-08 (CLOSED) \n16:45 Trade Date: 2026-09-09 (CLOSED) \n17:00 Trade Date: 2026-09-09 (OPEN)"
             }
         ],
         [
             {
                 "date": "11/25/2026",
-                "raw_text": "16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (PREOPEN) \n17:00 Trade Date: 2026-11-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-11-25 (CLOSED) \n16:45 Trade Date: 2026-11-27 (CLOSED) \n17:00 Trade Date: 2026-11-27 (OPEN)"
             },
             {
                 "date": "11/26/2026",
-                "raw_text": "16:00 Trade Date: 2026-11-27 (PREOPEN) \n17:00 Trade Date: 2026-11-27 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-11-27 (CLOSED) \n17:00 Trade Date: 2026-11-27 (OPEN)"
             },
             {
                 "date": "11/27/2026",
@@ -1377,7 +1377,7 @@
         [
             {
                 "date": "12/23/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (PREOPEN) \n17:00 Trade Date: 2026-12-24 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-23 (CLOSED) \n16:45 Trade Date: 2026-12-24 (CLOSED) \n17:00 Trade Date: 2026-12-24 (OPEN)"
             },
             {
                 "date": "12/24/2026",
@@ -1391,7 +1391,7 @@
         [
             {
                 "date": "12/30/2026",
-                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (PREOPEN) \n17:00 Trade Date: 2026-12-31 (OPEN)"
+                "raw_text": "16:00 Trade Date: 2026-12-30 (CLOSED) \n16:45 Trade Date: 2026-12-31 (CLOSED) \n17:00 Trade Date: 2026-12-31 (OPEN)"
             },
             {
                 "date": "12/31/2026",
@@ -1407,7 +1407,7 @@
         [
             {
                 "date": "12/31/2025",
-                "raw_text": "06:00 Trade Date: 2025-12-31 (PREOPEN) \n09:00 Trade Date: 2025-12-31 (OPEN) \n15:05 Trade Date: 2025-12-31 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2025-12-31 (CLOSED) \n09:00 Trade Date: 2025-12-31 (OPEN) \n15:05 Trade Date: 2025-12-31 (CLOSED)"
             },
             {
                 "date": "01/01/2026",
@@ -1415,7 +1415,7 @@
             },
             {
                 "date": "01/02/2026",
-                "raw_text": "06:00 Trade Date: 2026-01-02 (PREOPEN) \n09:00 Trade Date: 2026-01-02 (OPEN) \n15:05 Trade Date: 2026-01-02 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-01-02 (CLOSED) \n09:00 Trade Date: 2026-01-02 (OPEN) \n15:05 Trade Date: 2026-01-02 (CLOSED)"
             }
         ],
         [
@@ -1429,7 +1429,7 @@
             },
             {
                 "date": "01/20/2026",
-                "raw_text": "06:00 Trade Date: 2026-01-20 (PREOPEN) \n09:00 Trade Date: 2026-01-20 (OPEN) \n15:05 Trade Date: 2026-01-20 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-01-20 (CLOSED) \n09:00 Trade Date: 2026-01-20 (OPEN) \n15:05 Trade Date: 2026-01-20 (CLOSED)"
             }
         ],
         [
@@ -1443,17 +1443,17 @@
             },
             {
                 "date": "02/17/2026",
-                "raw_text": "06:00 Trade Date: 2026-02-17 (PREOPEN) \n09:00 Trade Date: 2026-02-17 (OPEN) \n15:05 Trade Date: 2026-02-17 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-02-17 (CLOSED) \n09:00 Trade Date: 2026-02-17 (OPEN) \n15:05 Trade Date: 2026-02-17 (CLOSED)"
             }
         ],
         [
             {
                 "date": "04/01/2026",
-                "raw_text": "06:00 Trade Date: 2026-04-01 (PREOPEN) \n09:00 Trade Date: 2026-04-01 (OPEN) \n15:05 Trade Date: 2026-04-01 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-04-01 (CLOSED) \n09:00 Trade Date: 2026-04-01 (OPEN) \n15:05 Trade Date: 2026-04-01 (CLOSED)"
             },
             {
                 "date": "04/02/2026",
-                "raw_text": "06:00 Trade Date: 2026-04-02 (PREOPEN) \n09:00 Trade Date: 2026-04-02 (OPEN) \n15:05 Trade Date: 2026-04-02 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-04-02 (CLOSED) \n09:00 Trade Date: 2026-04-02 (OPEN) \n15:05 Trade Date: 2026-04-02 (CLOSED)"
             },
             {
                 "date": "04/03/2026",
@@ -1471,17 +1471,17 @@
             },
             {
                 "date": "05/26/2026",
-                "raw_text": "06:00 Trade Date: 2026-05-26 (PREOPEN) \n09:00 Trade Date: 2026-05-26 (OPEN) \n15:05 Trade Date: 2026-05-26 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-05-26 (CLOSED) \n09:00 Trade Date: 2026-05-26 (OPEN) \n15:05 Trade Date: 2026-05-26 (CLOSED)"
             }
         ],
         [
             {
                 "date": "06/17/2026",
-                "raw_text": "06:00 Trade Date: 2026-06-17 (PREOPEN) \n09:00 Trade Date: 2026-06-17 (OPEN) \n15:05 Trade Date: 2026-06-17 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-06-17 (CLOSED) \n09:00 Trade Date: 2026-06-17 (OPEN) \n15:05 Trade Date: 2026-06-17 (CLOSED)"
             },
             {
                 "date": "06/18/2026",
-                "raw_text": "06:00 Trade Date: 2026-06-18 (PREOPEN) \n09:00 Trade Date: 2026-06-18 (OPEN) \n15:05 Trade Date: 2026-06-18 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-06-18 (CLOSED) \n09:00 Trade Date: 2026-06-18 (OPEN) \n15:05 Trade Date: 2026-06-18 (CLOSED)"
             },
             {
                 "date": "06/19/2026",
@@ -1491,7 +1491,7 @@
         [
             {
                 "date": "07/02/2026",
-                "raw_text": "06:00 Trade Date: 2026-07-02 (PREOPEN) \n09:00 Trade Date: 2026-07-02 (OPEN) \n15:05 Trade Date: 2026-07-02 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-07-02 (CLOSED) \n09:00 Trade Date: 2026-07-02 (OPEN) \n15:05 Trade Date: 2026-07-02 (CLOSED)"
             },
             {
                 "date": "07/03/2026",
@@ -1513,13 +1513,13 @@
             },
             {
                 "date": "09/08/2026",
-                "raw_text": "06:00 Trade Date: 2026-09-08 (PREOPEN) \n09:00 Trade Date: 2026-09-08 (OPEN) \n15:05 Trade Date: 2026-09-08 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-09-08 (CLOSED) \n09:00 Trade Date: 2026-09-08 (OPEN) \n15:05 Trade Date: 2026-09-08 (CLOSED)"
             }
         ],
         [
             {
                 "date": "11/25/2026",
-                "raw_text": "06:00 Trade Date: 2026-11-25 (PREOPEN) \n09:00 Trade Date: 2026-11-25 (OPEN) \n15:05 Trade Date: 2026-11-25 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-11-25 (CLOSED) \n09:00 Trade Date: 2026-11-25 (OPEN) \n15:05 Trade Date: 2026-11-25 (CLOSED)"
             },
             {
                 "date": "11/26/2026",
@@ -1527,17 +1527,17 @@
             },
             {
                 "date": "11/27/2026",
-                "raw_text": "06:00 Trade Date: 2026-11-27 (PREOPEN) \n09:00 Trade Date: 2026-11-27 (OPEN) \n12:05 Trade Date: 2026-11-27 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-11-27 (CLOSED) \n09:00 Trade Date: 2026-11-27 (OPEN) \n12:05 Trade Date: 2026-11-27 (CLOSED)"
             }
         ],
         [
             {
                 "date": "12/23/2026",
-                "raw_text": "06:00 Trade Date: 2026-12-23 (PREOPEN) \n09:00 Trade Date: 2026-12-23 (OPEN) \n15:05 Trade Date: 2026-12-23 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-12-23 (CLOSED) \n09:00 Trade Date: 2026-12-23 (OPEN) \n15:05 Trade Date: 2026-12-23 (CLOSED)"
             },
             {
                 "date": "12/24/2026",
-                "raw_text": "06:00 Trade Date: 2026-12-24 (PREOPEN) \n09:00 Trade Date: 2026-12-24 (OPEN) \n12:05 Trade Date: 2026-12-24 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-12-24 (CLOSED) \n09:00 Trade Date: 2026-12-24 (OPEN) \n12:05 Trade Date: 2026-12-24 (CLOSED)"
             },
             {
                 "date": "12/25/2026",
@@ -1547,11 +1547,11 @@
         [
             {
                 "date": "12/30/2026",
-                "raw_text": "06:00 Trade Date: 2026-12-30 (PREOPEN) \n09:00 Trade Date: 2026-12-30 (OPEN) \n15:05 Trade Date: 2026-12-30 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-12-30 (CLOSED) \n09:00 Trade Date: 2026-12-30 (OPEN) \n15:05 Trade Date: 2026-12-30 (CLOSED)"
             },
             {
                 "date": "12/31/2026",
-                "raw_text": "06:00 Trade Date: 2026-12-31 (PREOPEN) \n09:00 Trade Date: 2026-12-31 (OPEN) \n15:05 Trade Date: 2026-12-31 (CLOSED)"
+                "raw_text": "06:00 Trade Date: 2026-12-31 (CLOSED) \n09:00 Trade Date: 2026-12-31 (OPEN) \n15:05 Trade Date: 2026-12-31 (CLOSED)"
             },
             {
                 "date": "01/01/2027",
