@@ -64,6 +64,14 @@ def transform_holiday_schedule(records, regular_schedule):
     - Use the regular schedule provided to know if a given date is a late open or early close based on the regular
       open and close time of certain asset.
     - If a date is classified as a Bank Holiday, include it in the bank holidays list but also include it either as a late open or early close.
+      Example: 
+      {
+        "date": "02/16/2026",
+        "raw_text": "12:00 Trade Date: 2026-02-17 (CLOSED) \n17:00 Trade Date: 2026-02-17 (OPEN)"
+      },
+
+      This date is a bank holiday as the market is not CLOSED ALL DAY but has an early close at 12h
+      and a late open at 17h.
     """
     response = client.responses.parse(
         model = "gpt-5.2",
